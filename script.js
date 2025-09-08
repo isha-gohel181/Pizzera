@@ -4,13 +4,13 @@ const menuItems = [
     t: "Classic Margherita",
     k: ["Wood-Fired", "Vegetarian", "Classic"],
     price: "₹399",
-    img: "./images/margherita.jpg",
+    img: "./images/Margherita.jpg",
   },
   {
     t: "Pepperoni Feast",
     k: ["Wood-Fired", "Spicy", "Meat"],
     price: "₹549",
-    img: "./images/pepperoni.jpg",
+    img: "./images/Pepperoni.jpg",
   },
   {
     t: "Veggie Supreme",
