@@ -34,7 +34,7 @@ const menuItems = [
     t: "Spicy Italian Sausage",
     k: ["Hot!", "Meat", "Wood-Fired"],
     price: "₹549",
-    img: "./images/italian-sausage.jpg",
+    img: "./images/Italian-sausage.jpg",
   },
   {
     t: "Garlic Breadsticks",
