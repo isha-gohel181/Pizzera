@@ -2,11 +2,13 @@
 
 A modern and responsive pizza ordering website with a clean UI, smooth animations, and an interactive user experience.
 
+---
 
 ## 🚀 Live Demo
 
 🔗 [View Live Website](https://your-live-demo-link.com)
 
+---
 
 ## ✨ Features
 
@@ -82,11 +84,11 @@ Run the project:
 Add your project screenshots here.
 
 ```bash
-/assets/screenshot.png
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/40344438-4940-45f4-84b9-ee9a1e541216" />
+
 ```
 
 ---
-
 
 ## 📜 License
 
