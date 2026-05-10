@@ -79,12 +79,8 @@ Run the project:
 
 ---
 
-## 📸 Screenshots
-
-Add your project screenshots here.
-
 ```bash
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/40344438-4940-45f4-84b9-ee9a1e541216" />
+
 
 ```
 
