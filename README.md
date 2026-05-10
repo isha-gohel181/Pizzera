@@ -2,13 +2,11 @@
 
 A modern and responsive pizza ordering website with a clean UI, smooth animations, and an interactive user experience.
 
----
 
 ## 🚀 Live Demo
 
 🔗 [View Live Website](https://your-live-demo-link.com)
 
----
 
 ## ✨ Features
 
@@ -89,17 +87,6 @@ Add your project screenshots here.
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to your branch
-5. Open a Pull Request
-
----
 
 ## 📜 License
 
@@ -111,9 +98,3 @@ This project is licensed under the MIT License.
 
 Made with ❤️ by **Isha Gohel**
 
-### 🌐 Connect With Me
-
-* GitHub: https://github.com/isha-gohel181
-* LinkedIn: https://linkedin.com/in/your-linkedin-profile
-
----
